@@ -1,0 +1,16 @@
+D:\2 курс\Алгоритмы\Lab_9_algorithms\Lab_9_algorithms\bin\Debug\net5.0\Lab_9_algorithms.exe
+D:\2 курс\Алгоритмы\Lab_9_algorithms\Lab_9_algorithms\bin\Debug\net5.0\Lab_9_algorithms.deps.json
+D:\2 курс\Алгоритмы\Lab_9_algorithms\Lab_9_algorithms\bin\Debug\net5.0\Lab_9_algorithms.runtimeconfig.json
+D:\2 курс\Алгоритмы\Lab_9_algorithms\Lab_9_algorithms\bin\Debug\net5.0\Lab_9_algorithms.runtimeconfig.dev.json
+D:\2 курс\Алгоритмы\Lab_9_algorithms\Lab_9_algorithms\bin\Debug\net5.0\Lab_9_algorithms.dll
+D:\2 курс\Алгоритмы\Lab_9_algorithms\Lab_9_algorithms\bin\Debug\net5.0\ref\Lab_9_algorithms.dll
+D:\2 курс\Алгоритмы\Lab_9_algorithms\Lab_9_algorithms\bin\Debug\net5.0\Lab_9_algorithms.pdb
+D:\2 курс\Алгоритмы\Lab_9_algorithms\Lab_9_algorithms\obj\Debug\net5.0\Lab_9_algorithms.csproj.AssemblyReference.cache
+D:\2 курс\Алгоритмы\Lab_9_algorithms\Lab_9_algorithms\obj\Debug\net5.0\Lab_9_algorithms.GeneratedMSBuildEditorConfig.editorconfig
+D:\2 курс\Алгоритмы\Lab_9_algorithms\Lab_9_algorithms\obj\Debug\net5.0\Lab_9_algorithms.AssemblyInfoInputs.cache
+D:\2 курс\Алгоритмы\Lab_9_algorithms\Lab_9_algorithms\obj\Debug\net5.0\Lab_9_algorithms.AssemblyInfo.cs
+D:\2 курс\Алгоритмы\Lab_9_algorithms\Lab_9_algorithms\obj\Debug\net5.0\Lab_9_algorithms.csproj.CoreCompileInputs.cache
+D:\2 курс\Алгоритмы\Lab_9_algorithms\Lab_9_algorithms\obj\Debug\net5.0\Lab_9_algorithms.dll
+D:\2 курс\Алгоритмы\Lab_9_algorithms\Lab_9_algorithms\obj\Debug\net5.0\ref\Lab_9_algorithms.dll
+D:\2 курс\Алгоритмы\Lab_9_algorithms\Lab_9_algorithms\obj\Debug\net5.0\Lab_9_algorithms.pdb
+D:\2 курс\Алгоритмы\Lab_9_algorithms\Lab_9_algorithms\obj\Debug\net5.0\Lab_9_algorithms.genruntimeconfig.cache

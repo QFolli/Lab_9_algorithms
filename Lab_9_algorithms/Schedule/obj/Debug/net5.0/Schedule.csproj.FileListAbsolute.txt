@@ -1,0 +1,16 @@
+D:\2 курс\Алгоритмы\Lab_9_algorithms\Schedule\bin\Debug\net5.0\Schedule.exe
+D:\2 курс\Алгоритмы\Lab_9_algorithms\Schedule\bin\Debug\net5.0\Schedule.deps.json
+D:\2 курс\Алгоритмы\Lab_9_algorithms\Schedule\bin\Debug\net5.0\Schedule.runtimeconfig.json
+D:\2 курс\Алгоритмы\Lab_9_algorithms\Schedule\bin\Debug\net5.0\Schedule.runtimeconfig.dev.json
+D:\2 курс\Алгоритмы\Lab_9_algorithms\Schedule\bin\Debug\net5.0\Schedule.dll
+D:\2 курс\Алгоритмы\Lab_9_algorithms\Schedule\bin\Debug\net5.0\ref\Schedule.dll
+D:\2 курс\Алгоритмы\Lab_9_algorithms\Schedule\bin\Debug\net5.0\Schedule.pdb
+D:\2 курс\Алгоритмы\Lab_9_algorithms\Schedule\obj\Debug\net5.0\Schedule.csproj.AssemblyReference.cache
+D:\2 курс\Алгоритмы\Lab_9_algorithms\Schedule\obj\Debug\net5.0\Schedule.GeneratedMSBuildEditorConfig.editorconfig
+D:\2 курс\Алгоритмы\Lab_9_algorithms\Schedule\obj\Debug\net5.0\Schedule.AssemblyInfoInputs.cache
+D:\2 курс\Алгоритмы\Lab_9_algorithms\Schedule\obj\Debug\net5.0\Schedule.AssemblyInfo.cs
+D:\2 курс\Алгоритмы\Lab_9_algorithms\Schedule\obj\Debug\net5.0\Schedule.csproj.CoreCompileInputs.cache
+D:\2 курс\Алгоритмы\Lab_9_algorithms\Schedule\obj\Debug\net5.0\Schedule.dll
+D:\2 курс\Алгоритмы\Lab_9_algorithms\Schedule\obj\Debug\net5.0\ref\Schedule.dll
+D:\2 курс\Алгоритмы\Lab_9_algorithms\Schedule\obj\Debug\net5.0\Schedule.pdb
+D:\2 курс\Алгоритмы\Lab_9_algorithms\Schedule\obj\Debug\net5.0\Schedule.genruntimeconfig.cache
